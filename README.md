@@ -7,7 +7,7 @@
 - 👨‍🎓 I'm a student of System Analysis and Development in [IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo](https://spo.ifsp.edu.br/tads).
 
 
-[//]: # (- ⚡ Fun facts about me: I love watching animes, playing sports and traveling!)
+[//]: # (- ⚡ Fun facts about me: I love watching animes, do sports and traveling!)
 
 
 <br/>  
