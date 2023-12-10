@@ -1,7 +1,7 @@
 ### <div align="center">I'm Klaus, a full-time Software Engineer 👨‍💻 🚀</div>
 
 
-- 🔭 I’m currently working on Advanced Development Specialist at GoLang [Post-Graduation Course](https://goexpert.fullcycle.com.br/pos-goexpert/).
+- 🔭 I’m currently working on Advanced Development Specialist with GoLang [Post-Graduation Course](https://goexpert.fullcycle.com.br/pos-goexpert/).
 
 
 - 👨‍🎓 I'm a student of System Analysis and Development in [IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo](https://spo.ifsp.edu.br/tads).
