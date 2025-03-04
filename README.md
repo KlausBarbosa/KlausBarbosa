@@ -18,10 +18,9 @@
 
 
 
-### Soft-Skill
+### Certifications
 <div align="center">  
-<a href="https://www.scrum.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/scrum-org-logo-E434EBC60F-seeklogo.com.png" alt="Ionic" height="50" /></a>
-<a href="https://www.lean.org/lexicon-terms/pdca/" target="_blank"><img style="margin: 10px" src="https://www.alcumus.com/wp-content/uploads/2021/06/PDCA-Cycle-2.png" alt="Ionic" height="80" /></a>
+<a href="https://www.credly.com/badges/735b1e36-d7ba-42cf-b3db-9127fbb6f271" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS" height="80" /></a>  
 
 </div>
 
@@ -46,8 +45,7 @@
 
 ### DevOps
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.credly.com/badges/735b1e36-d7ba-42cf-b3db-9127fbb6f271" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
