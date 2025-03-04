@@ -20,7 +20,7 @@
 
 ### Certifications
 <div align="center">  
-<a href="https://www.credly.com/badges/735b1e36-d7ba-42cf-b3db-9127fbb6f271" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS" height="80" /></a>  
+<a href="https://www.credly.com/badges/735b1e36-d7ba-42cf-b3db-9127fbb6f271" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS" height="100" /></a>  
 
 </div>
 
@@ -36,8 +36,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.openpolicyagent.org/img/logos/integrations/kafka-authorization.png" alt="Kafka" height="50" /></a>  
-<a href="https://aws.amazon.com/pt/what-is/machine-learning/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png?ssl=1" alt="Kafka" height="50" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.openpolicyagent.org/img/logos/integrations/kafka-authorization.png" alt="Kafka" height="60" /></a>  
+<a href="https://aws.amazon.com/pt/what-is/machine-learning/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png?ssl=1" alt="ML" height="40" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -49,9 +49,9 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/pt-br/" target="_blank"><img style="margin: 1px" src="https://miro.medium.com/v2/resize:fit:619/0*jCLgWQbZIm-IPUfD.png" alt="Docker" height="50" /></a>  
-<a href="https://www.splunk.com/" target="_blank"><img style="margin: 30px" src="https://www.splunk.com/content/dam/splunk2/en_us/images/events/mediakit/splunk-corp-logo-w-rgb.png" alt="Docker" height="20" /></a>  
-<a href="https://www.datadoghq.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353635/datadog.svg" alt="Docker" height="50" /></a>  
+<a href="https://kubernetes.io/pt-br/" target="_blank"><img style="margin: 1px" src="https://miro.medium.com/v2/resize:fit:619/0*jCLgWQbZIm-IPUfD.png" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.splunk.com/" target="_blank"><img style="margin: 30px" src="https://www.splunk.com/content/dam/splunk2/en_us/images/events/mediakit/splunk-corp-logo-w-rgb.png" alt="Splunk" height="20" /></a>  
+<a href="https://www.datadoghq.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353635/datadog.svg" alt="Datadog" height="50" /></a>  
 </div>
 
 </td></tr></table>  
